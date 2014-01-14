@@ -1,0 +1,18 @@
+{
+    "name": "madscience/oempro-api",
+    "license": "proprietary",
+    "type": "project",
+    "description": "OEMPRO API",
+    "authors": [
+        {
+            "name": "Simon Garner",
+            "email": "sgarner@expio.co.nz"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Oempro": "Oempro/" }
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+}
