@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-0": { "Oempro": "Oempro/" }
+        "psr-0": { "Oempro\\": "" }
     },
     "require": {
         "php": ">=5.3"
